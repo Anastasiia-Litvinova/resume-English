@@ -26,12 +26,10 @@ body {
   width: 370px;
   padding-top: 40px;
   padding-bottom: 40px;
-  display: flex;
-  align-items: center;
 }
 .my-photo {
   width: 300px;
-
+margin-left: 35px;
 }
 
 .about-me-container {
